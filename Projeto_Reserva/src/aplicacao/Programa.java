@@ -37,6 +37,7 @@ public class Programa {
 			reserva.atualizacaoData(checkIn, checkOut);
 			System.out.println("Reserva: " + reserva);
 			System.out.println();
+			System.out.println();
 		}
 		
 		sc.close();
